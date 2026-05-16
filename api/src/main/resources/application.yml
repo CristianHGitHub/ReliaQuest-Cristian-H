@@ -1,1 +1,5 @@
 spring.application.name: entry-level-java-challenge
+
+api:
+  security:
+    api-key: dev-local-key-change-me
